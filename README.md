@@ -1,60 +1,55 @@
-Projeto Agrinho 2025 – Guia Turístico Sustentável do Litoral Paranaense
-Sobre
-O Projeto Agrinho 2025 é um guia interativo e sem fins lucrativos dedicado ao ecoturismo no litoral do Paraná. Com foco na conscientização ambiental e na valorização da cultura local, o site oferece conteúdo turístico completo — com roteiros, dicas práticas e informações de apoio — incentivando a preservação dos ecossistemas costeiros e a integração entre campo, cidade e comunidade.
+# 🌊 Projeto Agrinho 2025 – Guia Turístico Sustentável do Litoral Paranaense
 
-Funcionalidades principais
-Roteiros turísticos diversificados
-Trilha ecológica, observação de aves, circuitos históricos e experiências gastronômicas em diversas localidades da costa paranaense.
+## Sobre
 
-Informações fundamentais para o viajante
-Orientações sobre hospedagem, transporte e melhores épocas para visita, garantindo uma experiência segura e organizada.
+O **Projeto Agrinho 2025** é um guia interativo e sem fins lucrativos dedicado ao ecoturismo no litoral do Paraná. Com foco na conscientização ambiental e na valorização da cultura local, o site oferece conteúdo turístico completo — com roteiros, dicas práticas e informações de apoio — incentivando a preservação dos ecossistemas costeiros e a integração entre campo, cidade e comunidade.
 
-Ênfase em sustentabilidade
-Práticas recomendadas como descarte de lixo responsável, respeito à fauna e flora marinhas, economia de recursos naturais e apoio ao comércio local são constantemente reforçadas.
+## Funcionalidades principais
 
-Integração cultural e local
-Mostra como o litoral se conecta com comunidades rurais e destaca tradições — como a gastronomia e os artesanatos regionais — fortalecendo laços entre visitantes e moradores.
+- **Roteiros turísticos diversificados**  
+  Trilhas ecológicas, observação de aves, circuitos históricos e experiências gastronômicas em diversas localidades da costa paranaense.
 
-Destinos em destaque
-Ilha do Mel – Ecossistema preservado, trilhas e o icônico Farol das Conchas.
+- **Informações fundamentais para o viajante**  
+  Dicas sobre hospedagem, transporte e melhores épocas para visita, garantindo uma experiência segura e organizada.
 
-Paranaguá – Cidade histórica, porto colonial e Mercado do Peixe vibrante.
+- **Ênfase em sustentabilidade**  
+  Boas práticas como descarte correto de lixo, respeito à natureza, economia de recursos e apoio ao comércio local.
 
-Morretes – Roteiros pelo Rio Nhundiaquara e o tradicional Barreado.
+- **Integração cultural e local**  
+  Destaque para tradições regionais, gastronomia típica e artesanatos, fortalecendo os laços entre visitantes e moradores.
 
-Matinhos – Balneário estruturado, ideal para turismo familiar.
+## Destinos em destaque
 
-Guaraqueçaba – Refúgio histórico à beira da baía, entre serra e litoral.
+- **Ilha do Mel** – Trilhas, praias preservadas e o Farol das Conchas.  
+- **Paranaguá** – Cidade histórica com porto colonial e culinária marcante.  
+- **Morretes** – Natureza exuberante e o tradicional barreado.  
+- **Matinhos** – Praia estruturada e lazer para toda a família.  
+- **Guaraqueçaba** – Refúgio tranquilo com beleza natural única.  
+- **Guaratuba** – Balneário com opções de lazer e ecoturismo.
 
-Guaratuba – Ampla baía, praias para todos os perfis e lazer para famílias.
+## Como usar
 
-Como usar
-Acesse o site pelo GitHub Pages: https://lui-sikorski.github.io/projeto-agrinho-2025/
+1. Acesse o site: [Versão online via GitHub Pages](https://lui-sikorski.github.io/projeto-agrinho-2025/)
+2. Navegue pelo menu lateral para explorar cada cidade.
+3. Planeje sua viagem com base nas dicas e roteiros do site.
+4. Compartilhe com amigos e ajude a divulgar o ecoturismo responsável!
 
-Explore o menu lateral para navegar por cada destino.
+## Propósito e valores
 
-Planeje sua viagem com os roteiros, dicas e orientações apresentadas.
+O projeto tem como missão:
 
-Colabore com fotos, relatos ou sugestões – todos são bem-vindos!
+- **Preservar** a natureza e promover o turismo consciente.
+- **Valorizar** a cultura local e os pequenos negócios da região.
+- **Conectar** pessoas, lugares e saberes por meio da educação e do respeito.
 
-Propósito e valores
-O Projeto Agrinho 2025 visa:
+## Contribuições
 
-Preservar: incentivar boas práticas ambientais durante o turismo.
+Sugestões, correções e melhorias são bem-vindas!
 
-Valorizar: dar visibilidade à cultura, tradição e pequenos comerciantes locais.
+1. Faça um fork deste repositório.
+2. Crie uma branch com sua contribuição (`feature/minha-sugestao`).
+3. Envie um Pull Request.
 
-Conectar: aproximar visitantes e comunidades, promovendo educação, respeito e troca cultural.
+## Licença
 
-Contribuições
-Contribuições, sugestões e parcerias são muito bem-vindas!
-
-Faça um fork deste repositório.
-
-Crie uma branch com sua sugestão (feature/nome-da-sua-feature).
-
-Envie um Pull Request com suas melhorias.
-
-Licença
-Este projeto é distribuído sob a licença MIT.
-
+Distribuído sob a licença **MIT**.
